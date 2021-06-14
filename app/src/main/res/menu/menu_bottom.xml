@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mHome"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:id="@+id/mExercise"
+        android:title="Exercise"
+        android:icon="@drawable/ic_baseline_self_improvement_24"/>
+    <item android:id="@+id/mAlarm"
+        android:title="Alarm"
+        android:icon="@drawable/ic_baseline_access_alarm_24"/>
+</menu>

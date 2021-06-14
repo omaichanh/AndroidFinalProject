@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practices With You</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="Item">
+        <item>Java</item>
+        <item>C++</item>
+        <item>Python</item>
+    </string-array>
+
+</resources>
